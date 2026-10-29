@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Steal an Anime Pack Wiki",
+  "shortName": "Steal an Anime Pack",
+  "description": "Independent Steal an Anime Pack Roblox guides for opening, stealing and merging packs, speed training and first-time players.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "0 0% 96%",
+      "foreground": "0 0% 7%",
+      "card": "0 0% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "356 85% 57%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "0 0% 89%",
+      "muted": "0 0% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "0 0% 80%",
+      "radius": ".45rem",
+      "card-shadow": "0 14px 36px rgba(15, 18, 24, .08)",
+      "hero-gradient": "linear-gradient(90deg, hsl(356 85% 57% / .16), transparent 46%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "editorial",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#F6F6F6",
+    "accent": "#EF3340",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://steal-an-anime-pack-wiki.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/steal-an-anime-pack-logo.png",
+    "cover": "/images/steal-an-anime-pack-cover.png",
+    "openGraph": "/images/steal-an-anime-pack-og.svg",
+    "favicon": "/images/steal-an-anime-pack-logo.png"
+  },
+  "game": {
+    "name": "Steal an Anime Pack",
+    "platform": "Roblox",
+    "developer": "Anime Tuff Games",
+    "genre": "Simulation",
+    "officialUrl": "https://www.roblox.com/games/133151378618377/Steal-an-Anime-Pack"
+  },
+  "seo": {
+    "titleTemplate": "%s | Steal an Anime Pack Guide"
+  }
+}

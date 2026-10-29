@@ -1,0 +1,1128 @@
+[
+  {
+    "enabled": true,
+    "slug": "how-to-play",
+    "pageType": "guide",
+    "navLabel": "How to Play",
+    "title": "Steal an Anime Pack How to Play: Beginner Guide",
+    "description": "Learn how to play Steal an Anime Pack on Roblox. Follow a beginner-friendly route through collecting packs, opening, merging, stealing and speed training.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Steal an Anime Pack · Roblox guide",
+      "heading": "How to Play Steal an Anime Pack",
+      "lead": "Start with the official Roblox experience by Anime Tuff Games, then learn the collection loop: open packs for characters, build income, explore stealing and merging, and train speed."
+    },
+    "sections": [
+      {
+        "id": "start-in-the-correct-roblox-game",
+        "heading": "Start in the Correct Roblox Game",
+        "intro": "Begin by confirming the correct Roblox game; everything else depends on the mechanics of this specific experience.",
+        "subsections": [
+          {
+            "heading": "Open the Official Experience",
+            "paragraphs": [
+              "Start from the Roblox listing for Steal an Anime Pack by Anime Tuff Games. Confirm the creator name before relying on any walkthrough: similarly named Roblox games have different interfaces and mechanics."
+            ]
+          },
+          {
+            "heading": "What You See When You Spawn",
+            "paragraphs": [
+              "Your first goal is to orient yourself in the live interface. Look for your starting area and the game’s on-screen interactions, rather than following a fixed keybind from another guide; prompts can differ on desktop and touch devices."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Game overview",
+            "slug": "",
+            "description": "Find the official Roblox experience and choose a guide."
+          }
+        ]
+      },
+      {
+        "id": "your-first-anime-pack",
+        "heading": "Your First Anime Pack",
+        "intro": "Opening a pack is the creator’s documented way to unlock characters. The location and interaction can change with the current live UI.",
+        "subsections": [
+          {
+            "heading": "How to Find a Pack",
+            "paragraphs": [
+              "The official description confirms the ability to steal and open Anime Packs but does not give a universal spawn point or shop location. In your session, locate an interactable pack and use the prompt the game actually displays."
+            ]
+          },
+          {
+            "heading": "What Happens When You Open It",
+            "paragraphs": [
+              "Opening packs is described by the creator as a way to unlock rare characters. Once an interaction finishes, verify which character or collection change the game shows before moving on. The opening guide keeps this distinct from merging."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "build-your-collection-and-base",
+        "heading": "Build Your Collection and Base",
+        "intro": "The characters you collect have an economic role as well as a collecting role.",
+        "subsections": [
+          {
+            "heading": "What New Units Do",
+            "paragraphs": [
+              "Your units are more than collectibles: according to the creator, they generate money, including while you are offline. That makes a small initial collection valuable before chasing advanced strategies."
+            ]
+          },
+          {
+            "heading": "When Cash Becomes Available",
+            "paragraphs": [
+              "Watch your in-game money display and your own units to learn how your current session records income. Avoid assuming a specific payout interval or base-upgrade cost, because the official public summary supplies neither."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Beginner route by activity",
+          "columns": [
+            "Activity",
+            "Confirmed purpose",
+            "Next guide"
+          ],
+          "rows": [
+            [
+              "Open packs",
+              "Unlock rare characters",
+              "Opening Packs"
+            ],
+            [
+              "Steal packs",
+              "Take packs from other players",
+              "Stealing Packs"
+            ],
+            [
+              "Merge packs",
+              "Combine packs using a separate game feature",
+              "Merging Packs"
+            ],
+            [
+              "Train speed",
+              "Get faster",
+              "Speed Training"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "steal-and-merge-packs",
+        "heading": "Steal and Merge Packs",
+        "intro": "Stealing and merging are separate advanced activities. Learn the difference before you commit packs.",
+        "subsections": [
+          {
+            "heading": "Try a Player Pack Steal",
+            "paragraphs": [
+              "Stealing is another confirmed way to get packs. Approach the other-player interaction only as the game permits, and follow the on-screen prompt. The stealing guide explains how to distinguish an actual successful transfer from merely approaching a target."
+            ]
+          },
+          {
+            "heading": "When to Use the Merge Feature",
+            "paragraphs": [
+              "After you understand opening, you can investigate merging. The creator confirms that pack merging exists but not its recipe. Check eligibility in your live interface before giving up packs or following a rumored combination."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "train-speed-and-choose-your-next-goal",
+        "heading": "Train Speed and Choose Your Next Goal",
+        "intro": "Train speed as its own activity, then choose one focused guide for your next challenge.",
+        "subsections": [
+          {
+            "heading": "Find the Training Interaction",
+            "paragraphs": [
+              "Training speed is confirmed, but the creator does not specify where the training object or menu appears. Use the current game display rather than assuming that a treadmill, shop or button exists in every version."
+            ]
+          },
+          {
+            "heading": "Beginner Checklist",
+            "paragraphs": [
+              "A practical first-session order is: verify the correct game; identify a pack; open one if available; recognize the character reward; watch your income; then explore stealing, merging and speed training. This is an editorial suggested learning order, not a mandatory game quest."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to open packs",
+            "slug": "how-to-open-packs",
+            "description": "Opening packs and checking character rewards."
+          },
+          {
+            "label": "How to steal packs",
+            "slug": "how-to-steal-packs",
+            "description": "What stealing means and how to recognize the interaction."
+          },
+          {
+            "label": "Pack merging",
+            "slug": "pack-merging",
+            "description": "Understand how merging differs from opening packs."
+          },
+          {
+            "label": "Speed training",
+            "slug": "speed-training",
+            "description": "Training to move faster and checking progress."
+          }
+        ]
+      },
+      {
+        "id": "what-to-do-when-progress-stalls",
+        "heading": "What to Do When Progress Stalls",
+        "intro": "If the game feels slow during your first session, identify which part of the loop has stalled instead of assuming all upgrades solve the same problem.",
+        "subsections": [
+          {
+            "heading": "You Have No New Character Yet",
+            "paragraphs": [
+              "First check whether you have acquired a pack, whether you have actually opened it and whether the collection display changed. Packs and revealed characters are not interchangeable. A successful pickup does not itself prove a character was unlocked.",
+              "If your pack interaction is unclear, go to the pack-opening guide. It isolates the opening task rather than mixing it with stealing or merging."
+            ]
+          },
+          {
+            "heading": "Your Base Is Not Growing",
+            "paragraphs": [
+              "Look at your current units and in-game cash display. The game creator says units earn money even while offline, but the public description does not set a specific rate. Compare what you can see before and after a short session instead of trusting an unverified money-per-second figure.",
+              "The sensible next step depends on what your game shows: obtaining a useful unit, observing earnings, or spending a clearly offered upgrade. Avoid treating an unrelated pack rarity claim as proof of income."
+            ]
+          },
+          {
+            "heading": "You Want to Move Faster",
+            "paragraphs": [
+              "Speed training is a distinct activity confirmed in the game's description. Locate the training interaction in your current version, record a simple before-and-after movement check, then decide whether faster movement helps your immediate task.",
+              "The speed-training page gives a consistent way to compare runs without claiming a hidden cap, guaranteed shortcut or specific upgrade price."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "beginner-progress-checklist",
+        "heading": "Beginner Progress Checklist",
+        "intro": "Before looking for advanced tier lists or codes, use this checklist to confirm you understand the live game mechanics that are already documented.",
+        "table": {
+          "caption": "What to verify during your first play session",
+          "columns": [
+            "Task",
+            "Evidence of progress",
+            "Follow-up guide"
+          ],
+          "rows": [
+            [
+              "Enter the correct game",
+              "Creator and game title match",
+              "Game overview"
+            ],
+            [
+              "Obtain or locate a pack",
+              "A relevant prompt or pack appears",
+              "Opening Packs"
+            ],
+            [
+              "Reveal a character",
+              "A reward or collection change appears",
+              "Opening Packs"
+            ],
+            [
+              "Check earning",
+              "An in-game cash value can be observed",
+              "Beginner guide"
+            ],
+            [
+              "Try a player interaction",
+              "A transfer or failure state is visible",
+              "Stealing Packs"
+            ],
+            [
+              "Train movement",
+              "A before-and-after test shows a change",
+              "Speed Training"
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I do first in Steal an Anime Pack?",
+        "answer": "Open the Roblox experience by Anime Tuff Games, find the game’s current pack interactions and start with opening a pack. The order here is a suggested learning route, not a mandatory quest."
+      },
+      {
+        "question": "Can you merge packs in Steal an Anime Pack?",
+        "answer": "Yes. The official description explicitly says packs can be merged; the public summary does not provide a recipe."
+      },
+      {
+        "question": "Does this game earn money offline?",
+        "answer": "The creator says units make money while you are offline. It does not publish a fixed payout rate in the short listing."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "how-to-open-packs",
+      "how-to-steal-packs",
+      "pack-merging",
+      "speed-training"
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-steal-packs",
+    "pageType": "guide",
+    "navLabel": "Stealing Packs",
+    "title": "Steal an Anime Pack How to Steal Packs Guide",
+    "description": "Learn how to steal packs in Steal an Anime Pack on Roblox. Check targets, follow in-game prompts, identify successful transfers and avoid common mistakes.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Steal an Anime Pack · Roblox guide",
+      "heading": "How to Steal Packs in Steal an Anime Pack",
+      "lead": "Steal an Anime Pack lets players steal packs from other players. The dependable way to approach it is to follow the actual target interaction and confirm the result in the current Roblox experience."
+    },
+    "sections": [
+      {
+        "id": "how-pack-stealing-works",
+        "heading": "How Pack Stealing Works",
+        "intro": "Steal an Anime Pack explicitly supports stealing packs from other players. This article focuses on recognizing and checking the stealing action, not opening or merging.",
+        "subsections": [
+          {
+            "heading": "What Can Be Stolen",
+            "paragraphs": [
+              "The game creator explicitly says you can steal packs from other players. It is a pack-acquisition action, not the same as opening a pack to reveal a character or merging existing packs."
+            ]
+          },
+          {
+            "heading": "Who Can Be Targeted",
+            "paragraphs": [
+              "You can verify the game identity, a visible target and the interaction displayed at that moment. Public official text does not specify universal range, cooldown, carry weight, shields or immunity; those claims should come from the current game itself."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "step-by-step-steal-a-pack",
+        "heading": "Step-by-Step: Steal a Pack",
+        "intro": "A dependable approach uses the interaction presented by the live game; an untested keybind is not a reliable walkthrough.",
+        "subsections": [
+          {
+            "heading": "Find a Valid Target",
+            "paragraphs": [
+              "In the official experience, look for another player’s pack that the interface treats as interactable. Do not assume that every pack decoration or every character can be taken; a real interaction prompt is more reliable than a guessed eligibility rule."
+            ]
+          },
+          {
+            "heading": "Use the On-Screen Interaction",
+            "paragraphs": [
+              "Follow the on-screen action offered for that target and your device. A keyboard shortcut reported for another Roblox experience may do nothing here. If there is no prompt, do not claim that a hidden or automatic steal is possible."
+            ]
+          },
+          {
+            "heading": "Confirm the Pack Changed Hands",
+            "paragraphs": [
+              "After using the displayed interaction, check whether the game itself confirms an ownership or pack-state change. Seeing an animation is not proof of acquisition; your visible pack or collection state is the relevant signal."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Find an available target",
+            "description": "Identify a pack owned by another player in the official game; do not assume every object is eligible."
+          },
+          {
+            "heading": "Follow the live prompt",
+            "description": "Use the action the game displays for the current device, rather than an untested keybind."
+          },
+          {
+            "heading": "Check the result",
+            "description": "Confirm that the pack state or your collection actually changed."
+          }
+        ]
+      },
+      {
+        "id": "why-a-steal-might-not-work",
+        "heading": "Why a Steal Might Not Work",
+        "intro": "If a steal fails, the actual game feedback matters more than assumptions about cooldowns or defenses.",
+        "subsections": [
+          {
+            "heading": "Target or Pack Is Not Eligible",
+            "paragraphs": [
+              "Start by confirming you are in the right game and that the object you are approaching is a pack the game marks as interactable. The public description does not define every restriction, so avoid treating a missing prompt as proof of one specific cooldown."
+            ]
+          },
+          {
+            "heading": "Input or Position Is Wrong",
+            "paragraphs": [
+              "Check the actual feedback shown in your session before repeating an action. The official text does not establish how far you can move, when a steal completes or whether a pack is protected."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "stealing-versus-opening-or-merging",
+        "heading": "Stealing Versus Opening or Merging",
+        "intro": "Stealing, opening and merging answer three different questions.",
+        "subsections": [
+          {
+            "heading": "When to Open the Pack",
+            "paragraphs": [
+              "Stealing concerns how you obtain a pack; opening concerns unlocking its character. The two actions serve different user questions and are documented in separate guides."
+            ]
+          },
+          {
+            "heading": "When to Merge Packs",
+            "paragraphs": [
+              "Merging is another advertised mechanic, but the creator does not publish exact input requirements in the short listing. Keep any pack in its visible current state until you understand what the game will do with it."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to open packs",
+            "slug": "how-to-open-packs",
+            "description": "Opening packs and checking character rewards."
+          },
+          {
+            "label": "Pack merging",
+            "slug": "pack-merging",
+            "description": "Understand how merging differs from opening packs."
+          }
+        ]
+      },
+      {
+        "id": "protecting-your-own-packs",
+        "heading": "Protecting Your Own Packs",
+        "intro": "Because other players can steal, base awareness matters, but do not assume a particular defensive tool exists.",
+        "subsections": [
+          {
+            "heading": "Recognize Risk to Your Base",
+            "paragraphs": [
+              "Other players can steal packs, so pay attention to what the current game displays around your base and stored collection. A claimed shield or lock feature should not be assumed from other stealing games."
+            ]
+          },
+          {
+            "heading": "Defensive Options You Can Verify",
+            "paragraphs": [
+              "The creator advertises base upgrades, but not a particular defense option in the public summary. Only rely on upgrade descriptions, controls or protection indicators that you can actually see in this experience."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "before-attempting-a-steal",
+        "heading": "Before You Attempt a Steal",
+        "intro": "The phrase 'steal packs' describes the game's multiplayer goal, but it does not mean every visible pack can be collected at any moment. Use a three-part check to separate choosing a target, performing an interaction and confirming a result.",
+        "subsections": [
+          {
+            "heading": "Check the Target and Your Position",
+            "paragraphs": [
+              "Find a pack associated with another player and look for the game's own actionable prompt. Being close to a character, a base or a display item may not be enough to trigger an interaction. A missing prompt is information: reassess the target before pressing random keys or assuming an exploit is required.",
+              "The public game description does not enumerate target restrictions. If the live game names a protection state or ownership condition, that state is more trustworthy than a generic guide claiming everything is stealable."
+            ]
+          },
+          {
+            "heading": "Distinguish an Attempt from a Completed Transfer",
+            "paragraphs": [
+              "Treat proximity, prompt activation and ownership transfer as separate steps. After acting, check the result the game actually shows and whether the pack appears in the place your session uses for collected items. Do not claim success solely because an animation played.",
+              "If the pack stays with the other player, revisit the live on-screen indication. If it moves to your collection, you can decide whether to open it or explore merging; those are follow-up activities, not part of the initial steal."
+            ]
+          },
+          {
+            "heading": "Keep Your Own Collection Safe",
+            "paragraphs": [
+              "Because other players can attempt to take packs, your own collection may face the same risk. Identify any protection option that is visibly present in your current session before relying on it. The official public description does not establish a universal shield timer or a guaranteed safe zone.",
+              "The best practical habit is to understand where your packs are, what ownership indicators look like and whether the game is showing a confirmed loss or merely another player's approach."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you steal Anime Packs from other players?",
+        "answer": "Yes. This mechanic is advertised directly by the game creator."
+      },
+      {
+        "question": "Is stealing a pack the same as opening it?",
+        "answer": "No. Stealing obtains a pack from another player; opening is associated with unlocking characters."
+      },
+      {
+        "question": "Can every pack be stolen?",
+        "answer": "The official description does not publish eligibility rules for every item. Use the interaction and feedback shown by the current game."
+      },
+      {
+        "question": "How can I protect my packs?",
+        "answer": "The game advertises base upgrades, but the short official description does not establish a specific shield or lock mechanic."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "how-to-play",
+      "how-to-open-packs",
+      "pack-merging"
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "pack-merging",
+    "pageType": "guide",
+    "navLabel": "Merging Packs",
+    "title": "Steal an Anime Pack Pack Merging Guide",
+    "description": "Learn how pack merging works in Steal an Anime Pack. Check possible inputs in the live game and understand how merging differs from opening packs.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Steal an Anime Pack · Roblox guide",
+      "heading": "Steal an Anime Pack Pack Merging Guide",
+      "lead": "Pack merging is a confirmed feature of Steal an Anime Pack. Merging and opening are different actions; the creator does not publish an exact recipe or guaranteed result in the public description."
+    },
+    "sections": [
+      {
+        "id": "what-is-pack-merging",
+        "heading": "What Is Pack Merging?",
+        "intro": "Merging is explicitly advertised for this game. It should never be confused with opening a pack to unlock a character.",
+        "subsections": [
+          {
+            "heading": "Merging Versus Opening",
+            "paragraphs": [
+              "The official description explicitly says you can merge your packs and also open packs. These are separate verbs: do not confuse revealing a character with using the game’s merge feature."
+            ]
+          },
+          {
+            "heading": "What the Official Description Confirms",
+            "paragraphs": [
+              "The creator confirms availability of pack merging, not a precise recipe, output tier, drop rate or guaranteed rare character. Treat any such numerical claim as unverified unless it can be reproduced in the game."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-merge-packs",
+        "heading": "How to Merge Packs",
+        "intro": "The exact recipe and interface are not documented in the creator’s public summary. Use the live game prompts to make the decision.",
+        "subsections": [
+          {
+            "heading": "Find the Merge Interface",
+            "paragraphs": [
+              "Open the correct Roblox experience and locate the merge interaction shown in its current interface. The public game description does not name a menu or machine, so this guide avoids inventing one."
+            ]
+          },
+          {
+            "heading": "Check Eligible Packs",
+            "paragraphs": [
+              "Before committing an item, inspect what the actual merge action accepts and what it indicates about the selected packs. A requirement for duplicate packs, a currency or a certain quantity has not been verified from official text."
+            ]
+          },
+          {
+            "heading": "Complete and Verify a Merge",
+            "paragraphs": [
+              "Only proceed using the game’s own confirmation. Compare the packs visible before and after the action; if the UI displays the result, that is the evidence to record rather than a rumored rarity upgrade."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Check the merge feature",
+            "description": "Locate the available merge interaction within the live Roblox experience."
+          },
+          {
+            "heading": "Read requirements first",
+            "description": "Inspect accepted inputs and any cost shown in the current interface before confirming."
+          },
+          {
+            "heading": "Compare before and after",
+            "description": "Verify the resulting pack or collection state instead of trusting an untested rarity promise."
+          }
+        ]
+      },
+      {
+        "id": "merge-requirements-and-results",
+        "heading": "Merge Requirements and Results",
+        "intro": "The input and result need to be checked within the current game version before claiming a fixed formula.",
+        "subsections": [
+          {
+            "heading": "Input Packs and Any Costs",
+            "paragraphs": [
+              "The relevant pre-merge facts are the selected packs and any cost displayed to you. Do not rely on fixed recipes copied from another game; updates may change availability and requirements."
+            ]
+          },
+          {
+            "heading": "Output and Collection Changes",
+            "paragraphs": [
+              "Inspect what the game actually leaves in your collection after a merge. A change in displayed item count or type is stronger evidence than an animation alone; the creator does not promise a particular reward."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "What can and cannot be established from the creator description",
+          "columns": [
+            "Question",
+            "Publicly confirmed?"
+          ],
+          "rows": [
+            [
+              "Pack merging exists",
+              "Yes"
+            ],
+            [
+              "Exact pack count needed",
+              "Not published"
+            ],
+            [
+              "Specific required currency",
+              "Not published"
+            ],
+            [
+              "Guaranteed higher rarity",
+              "Not published"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "why-a-merge-may-not-be-available",
+        "heading": "Why a Merge May Not Be Available",
+        "intro": "Most unverified merge tips online guess at prerequisites. Check what the current interface actually accepts.",
+        "subsections": [
+          {
+            "heading": "Check Item Eligibility",
+            "paragraphs": [
+              "If the merge action is unavailable, re-check the packs the interface allows you to select. Do not immediately assume a hidden rarity requirement or a fixed number of packs without supporting in-game text."
+            ]
+          },
+          {
+            "heading": "Check Game State",
+            "paragraphs": [
+              "Make sure your game state and displayed interaction allow the action. Error messages, unavailable buttons or an unchanged collection are useful signals; an exact diagnosis requires the current UI."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "when-to-open-instead-of-merge",
+        "heading": "When to Open Instead of Merge",
+        "intro": "A pack can serve different purposes. Match the action to what you want to accomplish.",
+        "subsections": [
+          {
+            "heading": "Choose the Right Action",
+            "paragraphs": [
+              "Want to unlock a character from a pack? The creator associates that with opening. Want to combine packs? Use the separate merge feature. Pick the action that matches your goal."
+            ]
+          },
+          {
+            "heading": "Related Pack Opening Guide",
+            "paragraphs": [
+              "The opening guide follows the separate question of revealing a pack reward and checking the result. Refer there rather than using a merging recipe when your intent is simply to open a pack."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to open packs",
+            "slug": "how-to-open-packs",
+            "description": "Opening packs and checking character rewards."
+          }
+        ]
+      },
+      {
+        "id": "merge-decision-guide",
+        "heading": "Should You Merge or Open a Pack?",
+        "intro": "Opening and merging both involve packs, but the player's intended result is different. Opening is connected to unlocking characters; merging is a separate pack-combining system. Before choosing, identify what you actually want from the next interaction.",
+        "table": {
+          "caption": "Opening and merging serve different goals",
+          "columns": [
+            "Situation",
+            "More relevant action",
+            "Check before continuing"
+          ],
+          "rows": [
+            [
+              "You want to see a character reward",
+              "Opening",
+              "An opening prompt is available for the pack"
+            ],
+            [
+              "You are investigating a combination",
+              "Merging",
+              "The current interface shows eligible inputs"
+            ],
+            [
+              "You only have one pack",
+              "Verify first",
+              "Do not assume the merge feature accepts a single pack"
+            ],
+            [
+              "You cannot find a recipe online",
+              "Inspect the live merge UI",
+              "Do not copy unverified ratio or cost claims"
+            ],
+            [
+              "You want packs from another player",
+              "Stealing",
+              "That is a separate multiplayer interaction"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Check the Preview Before Confirming",
+            "paragraphs": [
+              "If a merge screen offers a preview, read the exact items and result shown there before completing an action. Compare the displayed input with the packs you intend to use. This is a safe decision habit, not a claim that every version contains a preview or a confirmation dialog.",
+              "If the screen shows no reliable outcome information, do not treat fan-made rarity or percentage tables as official. The creator's short public description establishes the existence of merging, not the exact recipe, probability or resulting pack tier."
+            ]
+          },
+          {
+            "heading": "Keep Opening and Merging Separate in Your Notes",
+            "paragraphs": [
+              "When tracking progress, record an opening as a revealed character and a merge as a pack-combining event only if those outcomes are actually shown in your play session. Keeping the two activities distinct prevents mistaken assumptions about pack inventory, characters and income.",
+              "If you need the character reward step instead, switch to the opening page. If you still need to obtain a pack, start with the beginner or stealing guide depending on where the pack is located."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Steal an Anime Pack allow pack merging?",
+        "answer": "Yes. The creator explicitly says players can merge their packs."
+      },
+      {
+        "question": "How many packs does a merge require?",
+        "answer": "The official public description does not give a fixed number. Check the requirements shown in the current game."
+      },
+      {
+        "question": "Does merging guarantee a rare character?",
+        "answer": "No such guarantee is documented in the official description."
+      },
+      {
+        "question": "Is merging the same as opening?",
+        "answer": "No. They are mentioned as separate game actions."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "how-to-open-packs",
+      "how-to-play"
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-open-packs",
+    "pageType": "guide",
+    "navLabel": "Opening Packs",
+    "title": "Steal an Anime Pack How to Open Packs Guide",
+    "description": "Learn how to open packs in Steal an Anime Pack on Roblox. Find the live opening prompt, check character rewards and compare opening with merging.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Steal an Anime Pack · Roblox guide",
+      "heading": "How to Open Packs in Steal an Anime Pack",
+      "lead": "Opening Anime Packs unlocks rare characters, according to Anime Tuff Games. Here is how to identify an opening action, check what changed, and avoid confusing opening with merging."
+    },
+    "sections": [
+      {
+        "id": "what-opening-an-anime-pack-does",
+        "heading": "What Opening an Anime Pack Does",
+        "intro": "Opening packs to unlock rare characters is explicitly confirmed by the creator. Exact drop chances are not.",
+        "subsections": [
+          {
+            "heading": "Packs and Characters",
+            "paragraphs": [
+              "The official Roblox game description says opening Anime Packs unlocks rare characters. It does not state every character obtainable or publish exact odds, so no particular result can be promised."
+            ]
+          },
+          {
+            "heading": "Opening Versus Merging",
+            "paragraphs": [
+              "Opening is linked to unlocking characters; merging is separately advertised. Keep the two actions distinct if you are deciding whether to open your current pack or investigate a merge."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-open-a-pack-step-by-step",
+        "heading": "How to Open a Pack Step by Step",
+        "intro": "A useful opening sequence begins with a pack and ends with a confirmed reward, not a rumored keyboard shortcut.",
+        "subsections": [
+          {
+            "heading": "Get a Pack in the Current Game",
+            "paragraphs": [
+              "In the correct Roblox experience, identify a pack you can interact with. The creator explicitly mentions stealing packs, but the brief description does not confirm a particular shop, spawn timer or purchase price."
+            ]
+          },
+          {
+            "heading": "Find the Open Interaction",
+            "paragraphs": [
+              "Use the game’s displayed action for the pack you have. Keyboard keys, mobile buttons and exact menu labels have not been independently observed; follow the live prompt instead of a shortcut invented elsewhere."
+            ]
+          },
+          {
+            "heading": "Check the Revealed Result",
+            "paragraphs": [
+              "Once you open a pack, inspect the result displayed by the current game. The creator confirms character unlocking, but not a specific animation, guarantee or sequence of reward screens."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Identify an interactable pack",
+            "description": "Start with a pack available to you in the current game; the public summary does not specify a spawn or shop."
+          },
+          {
+            "heading": "Use the displayed opening action",
+            "description": "Follow the current in-game prompt, which may vary by device and update."
+          },
+          {
+            "heading": "Check the character result",
+            "description": "Look for the character or collection change after the action completes."
+          }
+        ]
+      },
+      {
+        "id": "where-your-opened-rewards-go",
+        "heading": "Where Your Opened Rewards Go",
+        "intro": "Check the character actually awarded before assuming an opening succeeded.",
+        "subsections": [
+          {
+            "heading": "Recognize the Reward Screen",
+            "paragraphs": [
+              "Look for the change or reveal shown after the opening completes. The exact layout depends on the current interface; seeing a visual effect alone is not a reason to claim a particular character was obtained."
+            ]
+          },
+          {
+            "heading": "Verify the Character in Your Collection",
+            "paragraphs": [
+              "Check the game’s visible character or collection state after opening, if that state is available to you. Do not assume the game has an “Inventory” tab unless you can actually see one."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "why-opening-might-fail",
+        "heading": "Why Opening Might Fail",
+        "intro": "Unresponsive interactions can have different causes; use the message shown in the game.",
+        "subsections": [
+          {
+            "heading": "Check the Pack State",
+            "paragraphs": [
+              "If opening does not proceed, first confirm the object is an unopened pack that the interface allows you to use. Do not assume there is a universally required quantity or a hidden time limit."
+            ]
+          },
+          {
+            "heading": "Verify the Interface Prompt",
+            "paragraphs": [
+              "If the expected action does not appear, inspect the message or label on-screen and confirm you are using the correct game and device controls. The public description does not provide verified failure codes."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-to-do-after-opening",
+        "heading": "What to Do After Opening",
+        "intro": "Opening is one part of the wider collection and upgrade loop.",
+        "subsections": [
+          {
+            "heading": "Build Your Collection",
+            "paragraphs": [
+              "The game’s collection includes characters, and the creator states units generate cash even while offline. After a successful opening, you can decide whether to collect more packs or focus on your base."
+            ]
+          },
+          {
+            "heading": "Compare With Pack Merging",
+            "paragraphs": [
+              "Merging is a distinct advertised feature. To avoid consuming a pack for the wrong goal, check the separate pack-merging guide before acting."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Pack merging",
+            "slug": "pack-merging",
+            "description": "Understand how merging differs from opening packs."
+          },
+          {
+            "label": "How to play",
+            "slug": "how-to-play",
+            "description": "A clear first-session route for new players."
+          }
+        ]
+      },
+      {
+        "id": "after-opening-a-pack",
+        "heading": "What to Check After Opening a Pack",
+        "intro": "The meaningful result of an opening is not only that a pack animation has finished. The creator describes pack opening as a way to unlock rare characters. Use the visible reward information to decide what happened and what to do next.",
+        "subsections": [
+          {
+            "heading": "Confirm the Reward You Received",
+            "paragraphs": [
+              "Look for the game's own result display and note the character or collection change it reports. If a new unit is shown, find its corresponding entry or placement in the current interface before moving to the next pack. A visual effect on its own is not a verified reward.",
+              "Record the exact name and on-screen details of a character only when the game displays them. A guide for a different anime-themed Roblox game is not a reliable source for this game's units, rarity tiers or acquisition method."
+            ]
+          },
+          {
+            "heading": "Decide Between Another Opening and a Merge",
+            "paragraphs": [
+              "If your goal is more characters, another opening may be the relevant category of activity. If your goal is to combine existing packs, that belongs to the merge system and may require additional inputs. Neither route should be described with guaranteed reward percentages until those values are verified.",
+              "The opening page helps you get through the character-reveal workflow. Our merging guide focuses on checking eligible inputs and the separate combination result, so use it only when that is your next objective."
+            ]
+          },
+          {
+            "heading": "Keep a Simple Collection Record",
+            "paragraphs": [
+              "For repeat play sessions, make a short personal record of the pack you opened, the character name displayed, whether your collection updated, and the date. That lets you distinguish a new discovery from a duplicate result without asserting any hidden odds or drop tables.",
+              "If the result does not appear where you expect, check the current game's UI before repeating the action. Repeated clicking can obscure whether one opening succeeded or whether you are looking at a different inventory view."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What do you get when opening an Anime Pack?",
+        "answer": "The creator says opening packs can unlock rare characters; exact results and probabilities are not published in the short official description."
+      },
+      {
+        "question": "How do I open my first pack?",
+        "answer": "Find a pack that is interactable in the current Roblox experience, follow the on-screen action and check the resulting character or collection change."
+      },
+      {
+        "question": "Is opening the same as merging packs?",
+        "answer": "No. Opening and merging are distinct activities in the official game summary."
+      },
+      {
+        "question": "Can I guarantee a particular character?",
+        "answer": "The cited creator description provides no guaranteed-character rule or exact odds."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "how-to-play",
+      "pack-merging",
+      "how-to-steal-packs"
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "speed-training",
+    "pageType": "guide",
+    "navLabel": "Speed Training",
+    "title": "Steal an Anime Pack Speed Training Guide",
+    "description": "Learn speed training in Steal an Anime Pack on Roblox. Find the live training action, compare movement before and after, and see when speed matters.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Steal an Anime Pack · Roblox guide",
+      "heading": "Steal an Anime Pack Speed Training Guide",
+      "lead": "Speed training is a confirmed part of Steal an Anime Pack. Start from the live game’s training interaction and observe progress rather than assuming a specific machine, level cap or multiplier."
+    },
+    "sections": [
+      {
+        "id": "what-speed-training-does",
+        "heading": "What Speed Training Does",
+        "intro": "The game confirms training to get faster. Numerical formulas and specific training equipment are not established by the public description.",
+        "subsections": [
+          {
+            "heading": "Training in the Official Game",
+            "paragraphs": [
+              "Anime Tuff Games tells players to train to get faster. That establishes the feature, but not where it is located or whether a specific machine is involved."
+            ]
+          },
+          {
+            "heading": "Speed and Other Upgrades",
+            "paragraphs": [
+              "The creator also mentions base upgrades. A relationship between a particular upgrade and speed, or a numerical multiplier, is not stated in the official summary."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-start-training",
+        "heading": "How to Start Training",
+        "intro": "Start with the interaction visible in the current experience, then examine any progress feedback.",
+        "subsections": [
+          {
+            "heading": "Locate the Actual Training Interaction",
+            "paragraphs": [
+              "Join the official experience and identify the training prompt in the live game. Search the current on-screen controls rather than following a purported treadmill location from a different Roblox title."
+            ]
+          },
+          {
+            "heading": "Activate the Training Action",
+            "paragraphs": [
+              "Use only the training interaction that the game currently offers. The official page does not publish a fixed keyboard key, touchscreen gesture or auto-training mode."
+            ]
+          },
+          {
+            "heading": "Confirm Progress",
+            "paragraphs": [
+              "Watch for a visible change in the game’s training or movement display. Without a documented in-game indicator, a claimed percentage boost or speed level would be guesswork."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Locate the training action",
+            "description": "Use the visible interaction in the current experience; a specific object or control has not been verified."
+          },
+          {
+            "heading": "Start training",
+            "description": "Follow the game’s displayed controls and do not assume a special shortcut."
+          },
+          {
+            "heading": "Observe progress",
+            "description": "Check for any available progress feedback instead of trusting an unmeasured multiplier."
+          }
+        ]
+      },
+      {
+        "id": "track-speed-improvements",
+        "heading": "Track Speed Improvements",
+        "intro": "A before-and-after comparison is more meaningful than a speculative multiplier.",
+        "subsections": [
+          {
+            "heading": "Record a Before Snapshot",
+            "paragraphs": [
+              "If your game shows a numerical speed value, write down the value before an activity. Otherwise simply observe the player’s movement under consistent conditions; avoid fabricating a speed meter."
+            ]
+          },
+          {
+            "heading": "Record an After Snapshot",
+            "paragraphs": [
+              "Compare the visible status after the same type of training. It is safer to describe the difference you actually see than to promise an exact speed gain, multiplier or level cap."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Before/after comparison to make in your own session",
+          "columns": [
+            "Observation",
+            "Before",
+            "After"
+          ],
+          "rows": [
+            [
+              "Displayed speed value, if present",
+              "Read in game",
+              "Read in game"
+            ],
+            [
+              "Movement under the same conditions",
+              "Observe",
+              "Compare"
+            ],
+            [
+              "Base upgrades",
+              "Check description",
+              "Check effect"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "speed-training-and-stealing-packs",
+        "heading": "Speed Training and Stealing Packs",
+        "intro": "Speed may help you move through a session, but no specific steal-success formula has been confirmed.",
+        "subsections": [
+          {
+            "heading": "When Speed Matters",
+            "paragraphs": [
+              "The game separately advertises speed training and stealing. It is reasonable to explore both, but a precise effect of speed on steal success has not been established in the publicly available creator summary."
+            ]
+          },
+          {
+            "heading": "Continue to the Stealing Guide",
+            "paragraphs": [
+              "Once you know how to recognize speed progress, the stealing guide can help you identify the distinct pack-acquisition action without conflating the two mechanics."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to steal packs",
+            "slug": "how-to-steal-packs",
+            "description": "What stealing means and how to recognize the interaction."
+          }
+        ]
+      },
+      {
+        "id": "common-training-questions",
+        "heading": "Common Training Questions",
+        "intro": "Some important training and upgrade questions require current in-game observation rather than invented numbers.",
+        "subsections": [
+          {
+            "heading": "Does Training Have a Limit?",
+            "paragraphs": [
+              "No numerical speed cap is published in the creator’s short description. Treat any cap or level requirement you see in a guide as something that needs confirmation in the current game."
+            ]
+          },
+          {
+            "heading": "Do Base Upgrades Affect Training?",
+            "paragraphs": [
+              "The public game description mentions training and base upgrades but gives no direct formula or automatic relationship. Check the effect named by each in-game upgrade before claiming one."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "repeatable-movement-comparison",
+        "heading": "A Repeatable Way to Check Speed Progress",
+        "intro": "A useful speed guide should help you identify whether movement actually changed. The developer confirms that training can make you faster, but public information does not establish the exact gain per action, a cap or a universal best training route.",
+        "steps": [
+          {
+            "heading": "Choose a short path",
+            "description": "Use two recognizable locations in the same Roblox session. A straight, unobstructed path makes before-and-after comparison easier than wandering through a crowded area."
+          },
+          {
+            "heading": "Record a baseline",
+            "description": "Walk or run that route normally, without assuming a specific movement key applies to all devices. Note the approximate travel time and any obstacles."
+          },
+          {
+            "heading": "Perform visible speed training",
+            "description": "Use only the training activity the live game actually identifies. Do not assume a guessed shop item, macro or unrelated game mechanic."
+          },
+          {
+            "heading": "Repeat under similar conditions",
+            "description": "Run the same route again. Compare the two attempts, noting obstacles, player interference and whether the game shows a changed speed indicator."
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "What Counts as a Real Improvement?",
+            "paragraphs": [
+              "An observed improvement is a shorter traversal under comparable conditions or a changed speed metric visibly provided by the game. A different spawn point, a shorter path or another player's action can make a single attempt misleading.",
+              "A short set of consistent trials is more useful than repeating a rumored multiplier. This helps both keyboard and touch players without claiming the controls or training interface are identical."
+            ]
+          },
+          {
+            "heading": "When to Return to Packs",
+            "paragraphs": [
+              "Speed training is not the entire objective of Steal an Anime Pack. Once you understand how training affects movement in your session, return to packs and characters, and decide whether you need to open, merge or steal next.",
+              "The steal guide covers a separate multiplayer interaction. Faster movement may be useful to the player, but it does not guarantee an eligible target or a successful steal."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you train to get faster?",
+        "answer": "Yes. Speed training is expressly described by Anime Tuff Games."
+      },
+      {
+        "question": "Where is the speed training area?",
+        "answer": "A fixed location is not documented in the official public description; use the current in-game interaction rather than an assumed map position."
+      },
+      {
+        "question": "Does a base upgrade automatically increase speed?",
+        "answer": "The creator mentions training and upgrades but does not state a direct effect or multiplier."
+      },
+      {
+        "question": "Is there a maximum speed?",
+        "answer": "The official summary does not specify a speed cap."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "how-to-play",
+      "how-to-steal-packs"
+    ],
+    "lastReviewed": "2026-10-29"
+  }
+]

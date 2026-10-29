@@ -1,0 +1,247 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Steal an Anime Pack Wiki: Roblox Game & Guides",
+  "description": "Explore Steal an Anime Pack on Roblox. Find the official game, a beginner walkthrough, and focused guides to stealing, opening, merging and training.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Independent Roblox game guide",
+    "heading": "Steal an Anime Pack Wiki",
+    "lead": "Steal an Anime Pack is a Roblox game by Anime Tuff Games: open and merge packs, collect characters, steal other players’ packs and train to get faster.",
+    "supportingText": "Looking for the real game or a specific action? Use the official Roblox link or jump to one of the five focused guides below.",
+    "primaryLink": {
+      "label": "How to play",
+      "slug": "how-to-play",
+      "description": "A clear first-session route for new players."
+    },
+    "secondaryLink": {
+      "label": "Play Steal an Anime Pack on Roblox",
+      "url": "https://www.roblox.com/games/133151378618377/Steal-an-Anime-Pack"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is-steal-an-anime-pack",
+      "heading": "What Is Steal an Anime Pack?",
+      "intro": "Steal an Anime Pack is a Roblox collection and stealing game by Anime Tuff Games. The linked Roblox listing is the authoritative place to start playing.",
+      "subsections": [
+        {
+          "heading": "The Official Roblox Experience",
+          "paragraphs": [
+            "This is the Roblox experience created by Anime Tuff Games. Use the official game link above to avoid similarly named experiences; this guide is independent and does not host the game."
+          ]
+        },
+        {
+          "heading": "The Main Gameplay Loop",
+          "paragraphs": [
+            "The creator describes opening packs to unlock anime characters, merging packs, taking packs from other players, and training speed. Units earn money even when you are offline; collecting and base upgrades are additional parts of the loop."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-started",
+      "heading": "How to Get Started",
+      "intro": "A short learning route is more useful than dozens of overlapping guide pages. Pick the activity that matches your question.",
+      "subsections": [
+        {
+          "heading": "Join the Correct Game",
+          "paragraphs": [
+            "Open the official Roblox listing, check the game title and creator, and start from that listing. There are different Roblox games with similar anime-stealing names, and their items or codes should not be treated as interchangeable."
+          ]
+        },
+        {
+          "heading": "Choose Your Next Task",
+          "paragraphs": [
+            "Brand-new player? Start with the beginner walkthrough. For a single action, open the dedicated stealing, opening, merging or speed page. Each guide keeps to one question so you do not have to search through a large general-purpose wiki."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "How to play",
+          "slug": "how-to-play",
+          "description": "A clear first-session route for new players."
+        }
+      ]
+    },
+    {
+      "id": "steal-open-and-merge-anime-packs",
+      "heading": "Steal, Open and Merge Anime Packs",
+      "intro": "The creator advertises stealing, opening and merging packs; each activity has its own focused guide below.",
+      "subsections": [
+        {
+          "heading": "Stealing Packs",
+          "paragraphs": [
+            "The game explicitly lets players take packs from other players. This is separate from revealing the character inside a pack. The stealing page explains what can be confirmed and how to check the current in-game prompt."
+          ]
+        },
+        {
+          "heading": "Opening and Merging Packs",
+          "paragraphs": [
+            "Opening is the action connected to unlocking characters; merging is a separate advertised feature. The creator does not publish a recipe, required quantity or success chance in its short game description, so the guides do not guess at one."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "How to steal packs",
+          "slug": "how-to-steal-packs",
+          "description": "What stealing means and how to recognize the interaction."
+        },
+        {
+          "label": "How to open packs",
+          "slug": "how-to-open-packs",
+          "description": "Opening packs and checking character rewards."
+        },
+        {
+          "label": "Pack merging",
+          "slug": "pack-merging",
+          "description": "Understand how merging differs from opening packs."
+        }
+      ]
+    },
+    {
+      "id": "train-speed-and-grow-your-base",
+      "heading": "Train Speed and Grow Your Base",
+      "intro": "Training to get faster, earning cash with units and upgrading a base are also in the official description. Exact prices and speed gains vary or are not documented publicly.",
+      "subsections": [
+        {
+          "heading": "Speed Training",
+          "paragraphs": [
+            "Training to become faster is an advertised activity. Use the focused speed page for what to inspect in the current game and how to tell observed improvements apart from unverified speed claims."
+          ]
+        },
+        {
+          "heading": "Cash and Base Upgrades",
+          "paragraphs": [
+            "The creator advertises collection income, offline earnings and upgrades to your base. Treat the price or effect of any upgrade shown in-game as version-dependent rather than relying on made-up tables from unrelated Roblox titles."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Speed training",
+          "slug": "speed-training",
+          "description": "Training to move faster and checking progress."
+        }
+      ]
+    },
+    {
+      "id": "choose-the-right-action",
+      "heading": "Which Pack Action Should You Use First?",
+      "intro": "The name of a pack alone does not tell you whether to open, merge or steal it. Those actions solve different player problems. Use the goal below to choose one guide instead of repeatedly trying interactions that may not be available in your current situation.",
+      "table": {
+        "caption": "Choose a pack-related action by player goal",
+        "columns": [
+          "Your goal",
+          "Relevant action",
+          "What to confirm in the game"
+        ],
+        "rows": [
+          [
+            "Unlock a character from a pack",
+            "Open a pack",
+            "The opening interaction appears and the reward is added"
+          ],
+          [
+            "Combine eligible packs",
+            "Merge packs",
+            "The merge feature accepts the chosen inputs and shows a result"
+          ],
+          [
+            "Obtain a pack held by another player",
+            "Steal a pack",
+            "A valid player interaction produces an actual transfer"
+          ],
+          [
+            "Move faster between activities",
+            "Train speed",
+            "Your current speed or movement changes after training"
+          ]
+        ]
+      },
+      "subsections": [
+        {
+          "heading": "If You Have a Pack but No New Character",
+          "paragraphs": [
+            "Opening is the activity tied to revealing a character. Before trying to merge, look for the appropriate opening action and check whether the game displays a new character or a changed collection after completion. Treat a pack being visible and a character being unlocked as two separate states.",
+            "If the prompt is different from an online tutorial, follow the live in-game label. A reliable guide should not promise one universal key or click location across desktop and touch layouts."
+          ]
+        },
+        {
+          "heading": "If You Already Have Multiple Packs",
+          "paragraphs": [
+            "Merging is a different feature from opening: it combines packs rather than simply revealing a character. Check what your current game interface requests, what eligible inputs it shows and what output it previews. Do not assume duplicate packs, fixed recipes or bonus odds without a verified in-game display.",
+            "If your immediate goal is a character rather than a combination, compare the available choices before acting. Our opening and merging pages separate those tasks so their instructions do not contradict each other."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Opening Packs",
+          "slug": "how-to-open-packs",
+          "description": "Understand how the character reward is revealed."
+        },
+        {
+          "label": "Merging Packs",
+          "slug": "pack-merging",
+          "description": "Review the separate merge interaction."
+        }
+      ]
+    },
+    {
+      "id": "first-session-plan",
+      "heading": "An Efficient First-Session Plan",
+      "intro": "Steal an Anime Pack combines a collection goal with movement, earning and interaction with other players. A useful beginner session can stay simple: understand one system at a time, verify the result, then choose the next task.",
+      "steps": [
+        {
+          "heading": "Confirm the game and creator",
+          "description": "Open the linked Roblox experience by Anime Tuff Games. Similar-sounding Roblox titles can have entirely different inventories, rewards and controls."
+        },
+        {
+          "heading": "Identify your first pack",
+          "description": "Use the current game's visible labels to find a pack-related action. Note whether it is an opening, merge or player-stealing interaction before you commit anything."
+        },
+        {
+          "heading": "Check the reward or collection",
+          "description": "After an interaction, inspect the character collection or money display rather than assuming that an animation alone means success."
+        },
+        {
+          "heading": "Choose an upgrade goal",
+          "description": "Explore the earning and training activities the creator describes. Compare what changed in your own session and move to the corresponding focused guide."
+        }
+      ],
+      "subsections": [
+        {
+          "heading": "Use the Guide That Matches Your Next Question",
+          "paragraphs": [
+            "A new player asking where to begin needs a broad tour. A player holding a pack needs the opening guide; a player exploring combinations needs the merging guide; a player trying another player's pack needs the stealing guide. Keeping these answers separate is more useful than making five pages repeat one generic introduction.",
+            "Use the permanent navigation above or the guide cards for those distinct tasks. Each page links back to the game overview and to related activities, so you can switch when a gameplay question changes."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is Steal an Anime Pack a Roblox game?",
+      "answer": "Yes. Anime Tuff Games is the listed creator of the Steal an Anime Pack Roblox experience linked above."
+    },
+    {
+      "question": "Can I merge Anime Packs?",
+      "answer": "Yes. The creator explicitly mentions merging packs; exact requirements should be checked in the current game."
+    },
+    {
+      "question": "Where can I play Steal an Anime Pack?",
+      "answer": "Use the official Roblox experience linked in the hero. This fan-made guide does not host the game."
+    },
+    {
+      "question": "Are there working Steal an Anime Pack codes?",
+      "answer": "This site does not list codes that have not been verified for this exact Roblox experience. Codes from similarly named games may not apply."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-10-29"
+}
