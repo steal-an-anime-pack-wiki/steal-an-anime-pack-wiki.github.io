@@ -19,6 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NEXT_PUBLIC_SITE_URL: https://steal-an-anime-pack-wiki.github.io
+      NEXT_PUBLIC_GA_MEASUREMENT_ID: G-7GRM9JJ8CL
       NEXT_PUBLIC_BASE_PATH: ""
       NEXT_PUBLIC_CUSTOM_DOMAIN: ""
       NEXT_PUBLIC_THEME_PRESET: ${{ vars.NEXT_PUBLIC_THEME_PRESET }}
