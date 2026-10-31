@@ -6,6 +6,8 @@ import { join } from "node:path";
 const origin = "https://steal-an-anime-pack-wiki.github.io";
 const obsolete = /https?:\/\/steal-an-anime-pack\.github\.io(?:\/|\b)/i;
 const output = join(process.cwd(), "out");
+const expectedGa4 = "G-7GRM9JJ8CL";
+const obsoleteGa4 = "G-EKXEXC67L3";
 const paths = ["", "how-to-play", "how-to-steal-packs", "pack-merging", "how-to-open-packs", "speed-training"];
 const errors = [];
 function load(relativePath) {
@@ -28,6 +30,13 @@ for (const slug of paths) {
   }
   if (!/<h1(?:\s|>)/i.test(html)) errors.push(`${name}: missing H1`);
   if (obsolete.test(html)) errors.push(`${name}: obsolete domain found`);
+  if (html.includes(obsoleteGa4)) errors.push(`${name}: obsolete GA4 ID found`);
+  if (!html.includes(`www.googletagmanager.com/gtag/js?id=${expectedGa4}`)) {
+    errors.push(`${name}: expected GA4 gtag.js not found`);
+  }
+  if (!html.includes(`gtag(\'config\', \'${expectedGa4}\')`)) {
+    errors.push(`${name}: expected GA4 config not found`);
+  }
 }
 const sitemap = load("sitemap.xml");
 const robots = load("robots.txt");
@@ -46,4 +55,4 @@ if (errors.length) {
   errors.forEach((error) => console.error(`FAIL: ${error}`));
   process.exit(1);
 }
-console.log(`Domain check PASS: ${paths.length} indexable pages, canonical, sitemap, robots, no CNAME.`);
+console.log(`Domain and GA4 check PASS: ${paths.length} indexable pages, canonical, sitemap, robots, GA4 ${expectedGa4}, no CNAME.`);
