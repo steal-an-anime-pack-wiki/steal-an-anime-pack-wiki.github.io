@@ -17,7 +17,8 @@ for (const slug of slugs) {
   if (!existsSync(filename)) { errors.push("Missing page " + name); continue; }
   const html = readFileSync(filename, "utf8");
   for (const marker of ["data-adsterra-banner", "data-adsterra-native"]) {
-    const count = html.split(marker).length - 1;
+    // Next.js also serializes this markup inside hydration payloads. Count only the real SSR tag.
+    const count = html.split(`<div ${marker} class="adsterra-slot `).length - 1;
     if (count !== 1) errors.push(name + ": expected 1 " + marker + ", got " + count);
   }
   if (!html.includes('container-52fd1c6f0d7a6a0d9419d2e9c35d61f6')) errors.push(name + ": missing official native container");
