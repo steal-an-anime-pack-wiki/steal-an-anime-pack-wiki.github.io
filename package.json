@@ -6,7 +6,7 @@
     "dev": "next dev",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
-    "build": "next build --webpack && node scripts/postbuild.mjs && node scripts/verify-site-domain.mjs",
+    "build": "next build --webpack && node scripts/postbuild.mjs && node scripts/verify-site-domain.mjs && node scripts/verify-adsterra.mjs",
     "prepare": "node scripts/repo-rules.mjs install",
     "check:repo-rules": "node scripts/repo-rules.mjs ci",
     "check:domain": "node scripts/verify-site-domain.mjs"

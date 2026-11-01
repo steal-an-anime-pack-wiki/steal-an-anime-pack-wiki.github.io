@@ -676,3 +676,30 @@ body[data-fixed-template="editorial"] .site-responsive-table { max-width: 100%; 
 /* Keep the accessible skip link off-screen until keyboard focus, even in the raw fixed template. */
 body[data-fixed-template="editorial"] .skip-link { position: absolute; top: 0; left: 1rem; z-index: 100; transform: translateY(-150%); }
 body[data-fixed-template="editorial"] .skip-link:focus { transform: translateY(0); }
+
+
+/* Adsterra: minimal layout-only styles, no changes to the frozen Yorich skin. */
+[data-adsterra-banner], [data-adsterra-native] {
+  box-sizing: border-box;
+  width: min(100%, 760px);
+  max-width: 100%;
+  margin: 22px auto;
+  text-align: center;
+  clear: both;
+}
+[data-adsterra-banner] { min-height: 112px; }
+[data-adsterra-banner] .adsterra-banner-host { width: 100%; min-height: 90px; display: flex; justify-content: center; }
+[data-adsterra-native] { margin-top: 25px; margin-bottom: 30px; min-height: 28px; }
+.adsterra-label {
+  display: block;
+  font: 11px/1.4 Arial, sans-serif;
+  font-weight: 400;
+  color: #747474;
+  padding: 0 0 6px;
+  letter-spacing: .03em;
+}
+[data-adsterra-native] [id^="container-"] { max-width: 100%; overflow-x: clip; }
+@media (max-width: 767px) {
+  [data-adsterra-banner] { min-height: 72px; padding-inline: 0; }
+  [data-adsterra-banner] .adsterra-banner-host { min-height: 50px; }
+}

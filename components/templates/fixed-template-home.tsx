@@ -1,4 +1,4 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { fixedAds } from "@/lib/fixed-template/ad-placements";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
@@ -25,11 +25,11 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
     supplementHtml: `<div class="wrap site-home-supplement">${fixedSections(home.sections)}${fixedFaq(home.faq)}</div>`,
   });
   const { body, footer } = splitFixedFooter(rendered.rest);
+  const adBody = fixedAds(body, "home");
   return (
     <>
       <JsonLd data={homeSchemas(home)} />
-      <div dangerouslySetInnerHTML={{ __html: body }} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <div dangerouslySetInnerHTML={{ __html: adBody }} />
       {footer ? <div dangerouslySetInnerHTML={{ __html: footer }} /> : null}
     </>
   );
